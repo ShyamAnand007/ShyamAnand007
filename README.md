@@ -1,4 +1,9 @@
-![Typing](https://readme-typing-svg.herokuapp.com?lines=Howdddyyy)
+<p align="center">
+  <span style="color:#39ff14; font-size:28px; font-weight:bold;">
+    ⚡ "Highs and Lows" ⚡
+  </span>
+</p>
+
 
 # Hey 👋, I'm Shyam Anand
 
