@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=200&section=header&text=Welcome&fontColor=ffffff&fontSize=40" />
-</p>
-theme=tokyonight
+![Stats](https://github-readme-stats.vercel.app/api?username=ShyamAnand007&show_icons=true&theme=tokyonight)
 
 ## I'm Shyam Anand
 
