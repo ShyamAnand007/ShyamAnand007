@@ -28,5 +28,5 @@
 
 * Email: a007shyam@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShyamAnand007&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=ShyamAnand007&show_icons=true&theme=radical)
 
