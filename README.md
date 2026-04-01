@@ -5,7 +5,7 @@
 ## I'm Shyam Anand
 
 🎓 BTech AI & Data Science Student  
-💻 Python | C++ | DSA | AI | ML  (Yeah thats a lot)
+💻 Python | C++ | DSA | AI | ML  (Yeah thats a lot)  
 🚀 Building my way into tech  
 
 ---
