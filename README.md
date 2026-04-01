@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&text=&fontColor=00FF9C&fontSize=100&animation=fadeIn&fontAlignY=35&section=header&desc=WELCOME&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=WELCOME&fontColor=00FF9C&fontSize=50&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h2 align="center">I'm Shyam Anand</h2>
@@ -12,26 +12,29 @@
 
 ---
 
-## 🔭 What I'm Doing
-* Learning DSA in C++
-* Practicing Python
-* Exploring AI basics
-* 📌 Goal: Become an AI Engineer
-
----
-
-## 🛠️ Skills
-* Python (intermediate)
-* C++ (beginner)
-* AI, ML, DS (beginner)
-
----
-
-## 📫 Contact
-* Email: a007shyam@gmail.com
-
----
+<h2 align="center">🔭 What I'm Doing</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShyamAnand007&show_icons=true&theme=tokyonight&cache_seconds=10" />
+Learning DSA in C++ <br>
+Practicing Python <br>
+Exploring AI basics <br>
+📌 Goal: Become an AI Engineer
+</p>
+
+---
+
+<h2 align="center">🛠️ Skills</h2>
+
+<p align="center">
+Python (intermediate) <br>
+C++ (beginner) <br>
+AI, ML, DS (beginner)
+</p>
+
+---
+
+<h2 align="center">📫 Contact</h2>
+
+<p align="center">
+Email: a007shyam@gmail.com
 </p>
