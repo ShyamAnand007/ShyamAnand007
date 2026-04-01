@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=39FF14&center=true&vCenter=true&width=600&lines=Howddy do;Welcome" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=39FF14&center=true&vCenter=true&width=600&lines=Howddyy+do;Welcome" />
 </p>
 
 # Hey 👋, I'm Shyam Anand
