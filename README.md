@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey 👋, I'm Shyam Anand
 
-<!--
-**ShyamAnand007/ShyamAnand007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech AI & Data Science Student
+💻 Learning Python, C++, Data Structures, AI, ML (yeah thats a lot)
+🚀 Trying to build cool stuff step by step
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Doing
+
+* Learning DSA in C++
+* Practicing Python
+* Exploring AI basics
+
+---
+
+## 🛠️ Skills
+
+* Python (intermediate)
+* C++ (beginner)
+* AI, ML, DS (beginner)
+
+---
+
+## 📫 Contact
+
+* Email: a007shyam@gmail.com
