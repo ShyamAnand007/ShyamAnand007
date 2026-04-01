@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome;Howdyy+do" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome" />
 </p>
 
 ## I'm Shyam Anand
 
 🎓 BTech AI & Data Science Student  
-💻 Python | C++ | DSA | AI | ML  (Yeah thats a lot)  
+💻 Python | C++ | DSA | AI | ML 
 🚀 Building my way into tech  
 
 ---
