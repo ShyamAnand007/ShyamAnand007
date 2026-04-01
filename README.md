@@ -1,9 +1,6 @@
 <p align="center">
-  <span style="color:#39ff14; font-size:28px; font-weight:bold;">
-    ⚡ "Highs and Lows" ⚡
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=39FF14&center=true&vCenter=true&width=600&lines=Coding the way out" />
 </p>
-
 
 # Hey 👋, I'm Shyam Anand
 
