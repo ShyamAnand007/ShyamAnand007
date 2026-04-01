@@ -1,8 +1,8 @@
 # Hey 👋, I'm Shyam Anand
 
-*🎓 BTech AI & Data Science Student
-*💻 Learning Python, C++, Data Structures, AI, ML (yeah thats a lot)
-*🚀 Trying to build cool stuff step by step
+🎓 BTech AI & Data Science Student
+💻 Learning Python, C++, Data Structures, AI, ML (yeah thats a lot)
+🚀 Trying to build cool stuff step by step
 
 ---
 
