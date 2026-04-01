@@ -1,4 +1,4 @@
-![Typing](https://readme-typing-svg.herokuapp.com?lines=AI+Student;Learning+Python;Future+Engineer)
+![Typing](https://readme-typing-svg.herokuapp.com?lines=Howdddyyy)
 
 # Hey 👋, I'm Shyam Anand
 
