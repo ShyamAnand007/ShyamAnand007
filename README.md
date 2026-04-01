@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=200&section=header&text=Shyam%20Anand&fontColor=ffffff&fontSize=40" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome;Howdyy+do" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=200&section=header&text=Welcome&fontColor=ffffff&fontSize=40" />
 </p>
 
 ## I'm Shyam Anand
