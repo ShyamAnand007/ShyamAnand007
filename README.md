@@ -1,3 +1,5 @@
+![Typing](https://readme-typing-svg.herokuapp.com?lines=AI+Student;Learning+Python;Future+Engineer)
+
 # Hey 👋, I'm Shyam Anand
 
 🎓 BTech AI & Data Science Student
@@ -25,3 +27,5 @@
 ## 📫 Contact
 
 * Email: a007shyam@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShyamAnand007&show_icons=true&theme=radical)
