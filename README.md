@@ -5,8 +5,8 @@
 <h1 align="center">Hi, I'm Shyam Anand 👋</h1>
 
 <p align="center">
-🎓 BTech AI & Data Science Student <br>
-💻 Python | C++ | DSA | AI | ML <br>
+🎓 BTech AI & Data Science Student <br><br>
+💻 Python | C++ | DSA | AI | ML <br><br>
 🚀 Building my way into tech
 </p>
 
@@ -25,8 +25,8 @@ Exploring AI basics <br><br>
 <h2 align="center">🛠️ Skills</h2>
 
 <p align="center">
-Python (intermediate) <br>
-C++ (beginner) <br>
+Python (intermediate) <br><br>
+C++ (beginner) <br><br>
 AI, ML, DS (beginner)
 </p>
 
