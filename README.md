@@ -167,6 +167,10 @@ Currently strengthening DSA, algorithms and competitive programming.
 
 </div>
 
+<div align="center">
+
 <!-- BEGIN ACTIVITY-GRAPH -->
 <!-- END ACTIVITY-GRAPH -->
+
+</div>
 
