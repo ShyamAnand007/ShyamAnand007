@@ -172,6 +172,6 @@ Currently strengthening DSA, algorithms and competitive programming.
 
 ### Contributions
 
-<img src="https://raw.githubusercontent.com/ShyamAnand007/ShyamAnand007/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/ShyamAnand007/ShyamAnand007/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
