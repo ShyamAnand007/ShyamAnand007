@@ -169,5 +169,8 @@ Currently strengthening DSA, algorithms and competitive programming.
 
 
 <div align="center">
-  <img src="contributions.svg" width="100%" />
+  <img
+    src="https://github-analytics-incog.vercel.app/api?username=ShyamAnand007&theme=github_dark&profile=false"
+    alt="GitHub Analytics"
+  />
 </div>
