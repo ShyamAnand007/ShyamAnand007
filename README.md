@@ -172,6 +172,6 @@ Currently strengthening DSA, algorithms and competitive programming.
 
 ### Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamAnand007&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
+<img src="https://raw.githubusercontent.com/ShyamAnand007/ShyamAnand007/output/github-contribution-grid-snake.svg" />
 
 </div>
