@@ -145,7 +145,7 @@ Currently strengthening DSA, algorithms and competitive programming.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=60a5fa)](https://github.com/ShyamAnand007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=60a5fa)]([(https://www.linkedin.com/in/shyam-anand-1a968937b)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/shyam-anand-1a968937b/)
 
 </div>
 
