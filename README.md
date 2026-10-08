@@ -106,7 +106,7 @@ Python • GitHub API • Data Analysis
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,fastapi,postgres,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,fastapi,postgres" />
 
 </div>
 
@@ -114,7 +114,7 @@ Python • GitHub API • Data Analysis
 
 <div align="center">
 
-`Python` `C++` `JavaScript` `React` `FastAPI` `PostgreSQL`
+`Python` `C++` `JavaScript` `React` `FastAPI` `PostgreSQL` 
 
 </div>
 
@@ -145,7 +145,7 @@ Currently strengthening DSA, algorithms and competitive programming.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=60a5fa)](https://github.com/ShyamAnand007)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge\&logo=gmail\&logoColor=60a5fa)](mailto:a007shyam@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge\&logo=gmail\&logoColor=60a5fa)](2a007shyam@gmail.com)
 
 </div>
 
