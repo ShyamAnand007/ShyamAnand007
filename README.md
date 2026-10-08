@@ -26,7 +26,7 @@ Building projects. Solving problems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShyamAnand007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShyamAnand007&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamAnand007&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" height="170"/>
 
