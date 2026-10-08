@@ -125,23 +125,6 @@ SHYAM ANAND
 
   </text>
 
-  <!-- Subtitle -->
-
-<text x="600"
-     y="165"
-     text-anchor="middle"
-     fill="#00ff9c"
-     font-family="Arial, Helvetica, sans-serif"
-     font-size="18"
-     font-weight="500"
-     letter-spacing="4">
-
-
-
-
-
-  </text>
-
   <!-- Neon separator -->
 
 <line x1="380"
@@ -152,7 +135,7 @@ SHYAM ANAND
      stroke-width="2"
      filter="url(#glow)">
 
-```
+
 <animate attributeName="x1"
          values="430;380;430"
          dur="4s"
@@ -162,7 +145,7 @@ SHYAM ANAND
          values="770;820;770"
          dur="4s"
          repeatCount="indefinite"/>
-```
+
 
   </line>
 
@@ -188,13 +171,13 @@ SHYAM ANAND
   fill="none"
   opacity="0.7">
 
-```
+
 <path d="M45 45 H85"/>
 <path d="M45 45 V85"/>
 
 <path d="M1155 215 H1115"/>
 <path d="M1155 215 V175"/>
-```
+
 
   </g>
 
@@ -206,12 +189,12 @@ SHYAM ANAND
      height="4"
      fill="url(#neon)">
 
-```
+
 <animate attributeName="opacity"
          values="0.5;1;0.5"
          dur="3s"
          repeatCount="indefinite"/>
-```
+
 
   </rect>
 
