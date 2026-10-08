@@ -8,14 +8,14 @@
 
 <div align="center">
 
-### AI & Data Science Student • Developer • Problem Solver
+### AI & Data Science Student 
 
 </div>
 
 <div align="center">
 
 <p>
-Building projects. Solving problems. Learning by doing.
+Building projects. Solving problems. 
 </p>
 
 </div>
